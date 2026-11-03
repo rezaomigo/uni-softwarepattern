@@ -1,0 +1,8 @@
+{
+  "name": "سامانه پاسخگویی هوشمند دانشگاهی",
+  "description": "پلتفرم تحلیل و ارزیابی معماری الگوهای نرم‌افزار (Model Gateway, RAG, Planning) برای سامانه پاسخگویی به آیین‌نامه‌ها و خدمات دانشگاهی در سطح دکتری",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
