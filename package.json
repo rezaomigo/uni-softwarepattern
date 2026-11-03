@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "start": "vite preview",
+    "test": "tsx --test src/utils/architectureLogic.test.ts",
     "clean": "rm -rf dist server.js",
     "lint": "tsc --noEmit"
   },
